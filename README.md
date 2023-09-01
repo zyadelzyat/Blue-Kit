@@ -20,7 +20,11 @@
 <br>
 `source ~/.bashrc`
 # Libraries
-`pip install psutil subprocess psutil hashlib click json pandas matplotlib rich shodan re base64 keyboard pyreadline zipfile pyzipper binascii`
+`pip install pandas matplotlib rich shodan keyboard  pyzipper `
+**if you found any issues just pip install and the name of libraries in the source code**
+
+# Dont forget to put your own API Key in the code
+
 # The Kit Functions 
 1. Perform VirusTotal Query
 2. Perform Shodan Query
