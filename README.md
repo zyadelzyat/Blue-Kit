@@ -24,7 +24,10 @@
 **if you found any issues just pip install and the name of libraries in the source code**
 
 # Dont forget to put your own API Key in the code
-
+- Virus Total
+- Shodan
+- AbuseIPDB
+  
 # The Kit Functions 
 1. Perform VirusTotal Query
 2. Perform Shodan Query
