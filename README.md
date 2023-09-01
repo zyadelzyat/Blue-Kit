@@ -19,9 +19,8 @@
 `export PATH="/path/to/your/script:$PATH"`
 <br>
 `source ~/.bashrc`
-# Libraries
-`pip install pandas matplotlib rich shodan keyboard  pyzipper `
-**if you found any issues just pip install and the name of libraries in the source code**
+# Reqirements
+`pip install -r requirements.txt`
 
 # Dont forget to put your own API Key in the code
 - Virus Total
