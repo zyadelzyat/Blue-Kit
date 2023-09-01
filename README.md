@@ -1,6 +1,7 @@
 # Blue-Kit V1
-Combination Of Small Scripts In one place For Daily Tasks as Malware Analysts , SOC Analyst , Threat Hunter and more 
-the tool currently work on Linux 
+**Combination Of Small Scripts In one place For Daily Tasks as Malware Analysts , SOC Analyst , Threat Hunter and more**
+<br>
+**the tool currently work on Linux**
 
 # Contact Me 
 [LinkedIn](https://www.example.com](https://www.linkedin.com/in/zyadelzyat/)https://www.linkedin.com/in/zyadelzyat/)
