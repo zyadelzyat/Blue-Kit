@@ -1,7 +1,3 @@
-#!/usr/bin/env python3 
-
-# this steps for making your script run in any place in the system 
-
 import psutil
 import subprocess
 import csv
