@@ -1,14 +1,7 @@
 #!/usr/bin/env python3 
 
 # this steps for making your script run in any place in the system 
-"""
-chmod +x blue.py
-pwd "then take the path of where the script downloaded"
-nano ~/.bashrc
-export PATH="/path/to/your/script:$PATH"
-source ~/.bashrc    
 
-"""
 import psutil
 import subprocess
 import csv
