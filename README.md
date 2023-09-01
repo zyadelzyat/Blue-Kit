@@ -29,12 +29,14 @@
 - AbuseIPDB
 
 # The Kit Functions
-1. Perform VirusTotal Query
-2. Perform Shodan Query
-3. AbuseAbuseIPDB
+- Perform VirusTotal Query
+- Perform Shodan Query
+- AbuseAbuseIPDB
+<br>
 **And Save Output in JSON & CSV**
-5. Calculate File Hash
-6. Extract Strings from File
-7. Decode Base64
-8. Check Magic Number Using Hex Editor
-9. MalwareBazzar Password IS >> infected
+<br>
+- Calculate File Hash
+- Extract Strings from File
+- Decode Base64
+- Check Magic Number Using Hex Editor
+- MalwareBazzar Password IS >> infected
