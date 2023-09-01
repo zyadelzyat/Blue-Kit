@@ -4,3 +4,4 @@ rich
 shodan
 keyboard
 pyzipper
+psutil
