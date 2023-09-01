@@ -29,4 +29,4 @@
 5. Extract Strings from File
 6. Decode Base64
 7. Check Magic Number Using Hex Editor
-8. MalwareBazzar PasswordIS >> infected
+8. MalwareBazzar Password IS >> infected
