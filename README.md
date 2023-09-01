@@ -1,5 +1,6 @@
 # Blue-Kit V1
 **Combination Of Small Scripts In one place For Daily Tasks as Malware Analysts , SOC Analyst , Threat Hunter and more**
+**The Query Result Saves as CSV , JSOM**
 <br>
 <br>
 **the tool currently work on Linux**
@@ -22,7 +23,6 @@
 - Perform VirusTotal Query
 - Perform Shodan Query
 - AbuseAbuseIPDB
-  - **And Save Output in JSON & CSV**
 - Calculate File Hash
 - Extract Strings from File
 - Decode Base64
