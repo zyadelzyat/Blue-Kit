@@ -19,5 +19,5 @@
 `export PATH="/path/to/your/script:$PATH"`
 <br>
 `source ~/.bashrc`
-
-
+# Libraries
+`pip install psutil subprocess psutil hashlib click json pandas matplotlib rich shodan re base64 keyboard pyreadline zipfile pyzipper binascii`
