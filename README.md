@@ -10,7 +10,7 @@
 [FaceBook](https://www.facebook.com/zyadw3)
 
 # Add The Tool to make it run in any place on system
-`chmod +x blue.py`
+`chmod +x Blue-Kit.py`
 <br>
 `pwd "then take the path of where the script downloaded"`
 <br>
