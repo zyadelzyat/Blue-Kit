@@ -9,3 +9,9 @@ the tool currently work on Linux
 
 # Add The Tool to make it run in any place on system
 `chmod +x blue.py`
+`pwd "then take the path of where the script downloaded"`
+`nano ~/.bashrc`
+`export PATH="/path/to/your/script:$PATH"`
+`source ~/.bashrc`
+
+
