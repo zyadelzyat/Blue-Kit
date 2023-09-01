@@ -33,8 +33,6 @@
 - Perform Shodan Query
 - AbuseAbuseIPDB
 <br>
-**And Save Output in JSON & CSV**
-<br>
 - Calculate File Hash
 - Extract Strings from File
 - Decode Base64
