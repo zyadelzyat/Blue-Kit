@@ -21,3 +21,12 @@
 `source ~/.bashrc`
 # Libraries
 `pip install psutil subprocess psutil hashlib click json pandas matplotlib rich shodan re base64 keyboard pyreadline zipfile pyzipper binascii`
+# The Kit Functions 
+1. Perform VirusTotal Query
+2. Perform Shodan Query
+3. AbuseAbuseIPDB
+4. Calculate File Hash
+5. Extract Strings from File
+6. Decode Base64
+7. Check Magic Number Using Hex Editor
+8. MalwareBazzar PasswordIS >> infected
