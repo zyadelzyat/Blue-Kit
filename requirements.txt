@@ -1,0 +1,6 @@
+pandas
+matplotlib
+rich
+shodan
+keyboard
+pyzipper

@@ -4,7 +4,7 @@
 <br>
 **the tool currently work on Linux**
 
-# Contact Me 
+# Contact Me
 [LinkedIn](https://www.example.com](https://www.linkedin.com/in/zyadelzyat/)https://www.linkedin.com/in/zyadelzyat/)
 <br>
 [FaceBook](https://www.facebook.com/zyadw3)
@@ -19,16 +19,16 @@
 `export PATH="/path/to/your/script:$PATH"`
 <br>
 `source ~/.bashrc`
-# Libraries
-`pip install pandas matplotlib rich shodan keyboard  pyzipper `
-**if you found any issues just pip install and the name of libraries in the source code**
+
+# Requirements
+`pip install -r requirements.txt`
 
 # Dont forget to put your own API Key in the code
 - Virus Total
 - Shodan
 - AbuseIPDB
-  
-# The Kit Functions 
+
+# The Kit Functions
 1. Perform VirusTotal Query
 2. Perform Shodan Query
 3. AbuseAbuseIPDB
