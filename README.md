@@ -9,16 +9,6 @@
 <br>
 [FaceBook](https://www.facebook.com/zyadw3)
 
-# Add The Tool to make it run in any place on system
-`chmod +x Blue-Kit.py`
-<br>
-`pwd "then take the path of where the script downloaded"`
-<br>
-`nano ~/.bashrc`
-<br>
-`export PATH="/path/to/your/script:$PATH"`
-<br>
-`source ~/.bashrc`
 
 # Requirements
 `pip install -r requirements.txt`
