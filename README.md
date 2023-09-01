@@ -32,7 +32,7 @@
 - Perform VirusTotal Query
 - Perform Shodan Query
 - AbuseAbuseIPDB
-<br>
+  - **And Save Output in JSON & CSV**
 - Calculate File Hash
 - Extract Strings from File
 - Decode Base64
