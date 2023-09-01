@@ -32,8 +32,9 @@
 1. Perform VirusTotal Query
 2. Perform Shodan Query
 3. AbuseAbuseIPDB
-4. Calculate File Hash
-5. Extract Strings from File
-6. Decode Base64
-7. Check Magic Number Using Hex Editor
-8. MalwareBazzar Password IS >> infected
+**And Save Output in JSON & CSV**
+5. Calculate File Hash
+6. Extract Strings from File
+7. Decode Base64
+8. Check Magic Number Using Hex Editor
+9. MalwareBazzar Password IS >> infected
